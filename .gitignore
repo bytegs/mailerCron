@@ -1,0 +1,4 @@
+config/config.php
+config/mailer.php
+composer.lock
+vendor/*

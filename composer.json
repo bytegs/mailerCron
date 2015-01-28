@@ -1,0 +1,9 @@
+{
+	"repositories": [
+		{ "type": "vcs", "url": "https://github.com/bytegs/mailCommon.git"}
+    ],
+    "require": {
+        "bytegs/mailcommon":"dev-master",
+        "phpmailer/phpmailer": "5.2.9"
+    }
+}
